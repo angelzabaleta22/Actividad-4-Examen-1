@@ -1,0 +1,3 @@
+Para correr el código de esta aplicación, primero debemos asegurarnos de que el archivo index.html esté en la carpeta raíz de nuestro servidor web local o en una ubicación accesible en línea. Una vez que tengamos el archivo HTML, simplemente podemos abrirlo en cualquier navegador web moderno para iniciar la aplicación.
+
+No es necesario instalar ninguna dependencia adicional, ya que el código se basa en tecnologías estándar del lado del cliente, como HTML, CSS y JavaScript. Estas tecnologías son compatibles con la mayoría de los navegadores modernos, lo que significa que la aplicación se ejecutará en una amplia variedad de dispositivos y sistemas operativos.
